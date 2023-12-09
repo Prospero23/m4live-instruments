@@ -16,3 +16,4 @@ Feel free to use whatever you wish in any capacity.
 
 The 10d and 50d synths need to be opened and the file paths for the routes for the trainings need to be changed if you wish to use them. The location is pretty self explanitory (p mappings) and labled accordingly. The trainings I used are in this folder under which synth they are for but if you want to use other trainings, see the Flucoma docs. 
 
+Some of these have not been touched in years so if they are messy I apologize but maybe they will do you some good regardless :)
